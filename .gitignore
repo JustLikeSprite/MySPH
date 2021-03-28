@@ -1,0 +1,7 @@
+*.class
+/上行.sh
+/下行.sh
+/上行.bat
+/下行.bat
+编译Java.sh
+*.data
